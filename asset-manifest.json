@@ -1,0 +1,18 @@
+{
+  "files": {
+    "main.css": "/demoDentistap/static/css/main.65a292c5.css",
+    "main.js": "/demoDentistap/static/js/main.18b2631d.js",
+    "static/media/probando.png": "/demoDentistap/static/media/probando.7a39b14a7c0bfe1ca238.png",
+    "static/media/error.png": "/demoDentistap/static/media/error.313f8ea0a790665481b2.png",
+    "static/media/processed.png": "/demoDentistap/static/media/processed.369cdb17859df1bf863d.png",
+    "static/media/Recurso 4.svg": "/demoDentistap/static/media/Recurso 4.4e9bfe86ef688a09e539.svg",
+    "static/media/dt_logo_2.svg": "/demoDentistap/static/media/dt_logo_2.aeb973df5a2bb46508152a494bd3cf52.svg",
+    "index.html": "/demoDentistap/index.html",
+    "main.65a292c5.css.map": "/demoDentistap/static/css/main.65a292c5.css.map",
+    "main.18b2631d.js.map": "/demoDentistap/static/js/main.18b2631d.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.65a292c5.css",
+    "static/js/main.18b2631d.js"
+  ]
+}
